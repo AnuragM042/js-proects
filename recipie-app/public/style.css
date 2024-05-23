@@ -127,6 +127,7 @@ form button[type="submit"]:hover{
     background-color: rgb(230, 79, 24);
 }
 
+
 /* Recipe Details  */
 .recipe-details {
     display: none;
